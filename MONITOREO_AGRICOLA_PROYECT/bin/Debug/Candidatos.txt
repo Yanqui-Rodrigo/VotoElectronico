@@ -1,0 +1,11 @@
+1888;Presidente;Alejandro;Carpio Tejada;22;Hombre
+1234;Presidente;Fiorella;Valdivia;20;Mujer
+125;Secretario;Samuel;Tejada;20;Hombre
+126;Tesorero;Maria;Guzman;20;Mujer
+156;Secretario;Marcelo;Cuadros;20;Hombre
+156;Secretario;Marco;Garcia;25;Hombre
+148;Tesorero;Jose;Gutierrez;19;Hombre
+111;Tesorero;Rebecca;Breeds;27;Mujer
+555;Secretario;Aurora;De Martel;28;Mujer
+1222;Presidente;alejo;tejada;22;Hombre
+234;Secretario;asdad;asd;21;Hombre

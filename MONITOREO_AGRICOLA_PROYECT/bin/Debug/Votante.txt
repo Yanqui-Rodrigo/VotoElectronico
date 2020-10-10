@@ -1,0 +1,15 @@
+12345678,abcdefghijk,lmnopqrstu,20
+214,wer,er,2
+545644,ghdrdr,drdrd,45,System.Drawing.Bitmap
+43,etr,ret,2,System.Drawing.Bitmap
+23,ew,we,23,System.Drawing.Bitmap
+23,f,sdf,23,System.Drawing.Bitmap
+222,rgtgerg,ererger,32,System.Drawing.Bitmap
+222,ssss,sss,12,System.Drawing.Bitmap
+1221,csdc,sdcsdc,21,System.Drawing.Bitmap
+4343,dfgdfg,gdfgdf,3454,System.Drawing.Bitmap
+3456,vb,ghj,8,System.Drawing.Bitmap
+655,iij,jgj,5,System.Drawing.Bitmap
+121,dsadasas,asddasd,121,System.Drawing.Bitmap
+33,r,r,3,System.Drawing.Bitmap
+23e32,edsd,asdsa,122,System.Windows.Forms.PictureBox, SizeMode: Zoom
